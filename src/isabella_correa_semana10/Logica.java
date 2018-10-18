@@ -7,6 +7,8 @@ public class Logica {
 	private Jugador jugador;
 	private ArrayList<Luvia> bolas;
 	private int contador, numeroBolas, perder, pantalla;
+	
+	private int prueba = 100;
 
 	Logica(Main app) {
 		jugador = new Jugador(app);
