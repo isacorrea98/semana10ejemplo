@@ -8,6 +8,8 @@ public class Jugador {
 	private boolean isVivo;
 	
 	private float perdida;
+
+	private int entero = 10;
 	
 	
 	public Jugador(PApplet app) {
